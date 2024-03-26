@@ -15,7 +15,7 @@
     "@radix-ui/react-slot": "^1.0.2",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
-    "astro": "^4.5.9",
+    "astro": "^4.5.10",
     "caniuse-lite": "^1.0.30001600",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
